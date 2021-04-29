@@ -1,11 +1,12 @@
-#👋 Hi, I’m Mariana Souza
-- 👀 I’m interested in web development
-- 🌱 I’m a law graduate
-- 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate on any project that might interest me
-- 📫 How to reach me - marianadelima_souza@hotmail.com
+# Hey!👋
 
-<!---
-nanicoding/nanicoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! I am Mariana Souza, I am a Front-End Developer from Brazil. I am graduate in Law and very interested in cyber security too. 
+
+I am passionate about learning, not only about the tech world but, new languages too. I am always open to new challenges and I can easily adpt to changes as well.
+
+
+- 📍 From Recife - Brazil
+- 👩🏽‍💻 Front-End Developer
+- 👩🏽‍🎓 Law Graduate
+- 📲 Sharing what I learn at [@nanicoding](https://www.instagram.com/nanicoding/)
+
