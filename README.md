@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mariana Souza
+#👋 Hi, I’m Mariana Souza
 - 👀 I’m interested in web development
 - 🌱 I’m a law graduate
 - 🌱 I’m currently learning front-end development
