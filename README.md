@@ -1,6 +1,6 @@
 # Hey!👋
 
-Hi! I am Mariana Souza, I am a Front-End Developer from Brazil. I am graduate in Law and very interested in cyber security too. 
+Hi! I am Mariana Souza, I am a Front-End Developer from Brazil. I am graduated in Law and very interested in cyber security too. 
 
 I am passionate about learning, not only about the tech world but, new languages too. I am always open to new challenges and I can easily adpt to changes as well.
 
