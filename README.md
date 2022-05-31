@@ -6,9 +6,9 @@ I am passionate about learning, not only about the tech world but new languages 
 
 
 - 📍 From Recife - Brazil
-- 👩🏽‍💻 Front-End Developer
+- 👩🏽‍💻 Data Analyst | Data Scientist 
 - 👩🏽‍🎓 Law Graduate
-- 📲 Sharing what I learn at [@nanicoding](https://www.instagram.com/nanicoding/)
+- 📲 Sharing what I learn at [@papodedado](https://www.instagram.com/papodedado/)
 
 
 
@@ -32,4 +32,4 @@ I am passionate about learning, not only about the tech world but new languages 
 ### Reach me out
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-souza-1156821b7-br/)](https://www.linkedin.com/in/mariana-souza-1156821b7-br/) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nanicoding/)](https://www.instagram.com/nanicoding/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedado/)](https://www.instagram.com/papodedado/)
